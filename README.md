@@ -9,7 +9,7 @@
   # Windows:
     To check if Java is installed on windows go to the search bar, usuallly on the bottom left, and type 'command prompt'
     It should show you command prompt app and you need to open it. A black window should pop up, in that window type 
-    'java -versoin' and this should tell you whether you have Java installed or not.
+    'java -version' and this should tell you whether you have Java installed or not.
     
   # Mac:
     To check if you have Java installed on mac open up Spotlight, and search terminal and open up terminal. 
