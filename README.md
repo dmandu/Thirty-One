@@ -16,4 +16,6 @@
     In the terminal type 'java -version' and this should let you know whether you have Java installed or not.
     
 # Java Installation:
-  
+    If you do not have Java already installed, you will need to install it if you would like to play 31. Visit:
+    https://www.oracle.com/java/technologies/javase-jdk14-downloads.html to download Java and install on your computer.
+    
