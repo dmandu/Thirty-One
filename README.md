@@ -12,7 +12,7 @@
     'java -version' and this should tell you whether you have Java installed or not.
     
   # Mac:
-    To check if Java is installed on mac open up Spotlight(command + spacebar), and search terminal and open up terminal. 
+    To check if Java is installed on mac open up Spotlight(command + spacebar), search terminal and open up terminal. 
     In the terminal type 'java -version' and this should let you know whether you have Java installed or not.
     
 # Java Installation:
